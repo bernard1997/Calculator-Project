@@ -1,0 +1,72 @@
+
+.background{
+    background-color: black;
+    width: fit-content;
+    text-align: end;
+}
+
+.button_row{
+    padding: 5px;
+}
+
+.display{
+    height: 30px;
+    color: white;
+    text-align: match-parent;
+    padding: 0px 5px;
+}
+
+.button_op{
+    background-color: grey;
+    color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    font-size: 80%;
+    border: black;
+    text-align: center;
+}
+
+.button_num{
+    background-color: #333333;
+    color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    font-size: 90%;
+    border: black;
+    text-align: center;
+}
+
+.button_equal{
+    background-color: orange;
+    color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    font-size: 90%;
+    border: black;
+    text-align: center;
+}
+
+.special{
+    background-color: grey;
+    color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    font-size: 80%;
+    border: black;
+    text-align: center;
+}
+
+.button_dot{
+    background-color: #333333;
+    color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    font-size: 90%;
+    border: black;
+    text-align: center;
+}
